@@ -1,4 +1,4 @@
-Website: https://jeeevii.github.io/D2-AdventurePrototype/ 
+Website: https://jeeevii.github.io/Basic-Adventure-Prototype/
 
 
 Code requirements:
